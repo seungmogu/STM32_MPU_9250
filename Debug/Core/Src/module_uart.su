@@ -1,0 +1,4 @@
+module_uart.c:12:6:init_uart	16	static
+module_uart.c:19:6:push	16	static
+module_uart.c:30:9:pop	24	static
+module_uart.c:43:9:isEmpty	16	static
